@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/07-hello-cra-snapshotl/static/css/main.073c9b0a.css",
-    "main.js": "/07-hello-cra-snapshotl/static/js/main.eba1222a.js",
-    "static/js/787.0dd74be0.chunk.js": "/07-hello-cra-snapshotl/static/js/787.0dd74be0.chunk.js",
-    "static/media/logo.svg": "/07-hello-cra-snapshotl/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/07-hello-cra-snapshotl/index.html",
-    "main.073c9b0a.css.map": "/07-hello-cra-snapshotl/static/css/main.073c9b0a.css.map",
-    "main.eba1222a.js.map": "/07-hello-cra-snapshotl/static/js/main.eba1222a.js.map",
-    "787.0dd74be0.chunk.js.map": "/07-hello-cra-snapshotl/static/js/787.0dd74be0.chunk.js.map"
+    "main.css": "/07-hello-cra-snapshot/static/css/main.073c9b0a.css",
+    "main.js": "/07-hello-cra-snapshot/static/js/main.04774954.js",
+    "static/js/787.0dd74be0.chunk.js": "/07-hello-cra-snapshot/static/js/787.0dd74be0.chunk.js",
+    "static/media/logo.svg": "/07-hello-cra-snapshot/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/07-hello-cra-snapshot/index.html",
+    "main.073c9b0a.css.map": "/07-hello-cra-snapshot/static/css/main.073c9b0a.css.map",
+    "main.04774954.js.map": "/07-hello-cra-snapshot/static/js/main.04774954.js.map",
+    "787.0dd74be0.chunk.js.map": "/07-hello-cra-snapshot/static/js/787.0dd74be0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.eba1222a.js"
+    "static/js/main.04774954.js"
   ]
 }
